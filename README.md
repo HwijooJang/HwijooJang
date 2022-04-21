@@ -5,10 +5,10 @@
 </font>
 </font><font class="papago-parent"><font class="papago-source" style="display:none;">
 </font>
-</font><font class="papago-parent"><font class="papago-source" style="display:none;">주력언어는 자바와 스프링이며 https://velog.io/@jhj9469  제 블로그입니다.
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
 </font>주력언어는 자바와 스프링이며 https://velog.io/@jhj9469  제 블로그입니다.</font><font class="papago-parent"><font class="papago-source" style="display:none;">
 </font>
-</font><font class="papago-parent"><font class="papago-source" style="display:none;">https://www.notion.so/fc8ad0c62993466fb305c61bbeee7250 노션 주소 입니다.
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
 </font>https://www.notion.so/fc8ad0c62993466fb305c61bbeee7250 노션 주소 입니다.</font><font class="papago-parent"><font class="papago-source" style="display:none;">
 </font>
 </font><font class="papago-parent"><font class="papago-source" style="display:none;">현재 제 자신에게 부족한게 느껴져서 자바를 처음부터 다시 공부해보고 있습니다.</font>현재 제 자신에게 부족한게 느껴져서 자바를 처음부터 다시 공부해보고 있습니다.</font><font class="papago-parent"><font class="papago-source" style="display:none;">

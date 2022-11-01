@@ -1,6 +1,8 @@
-<h3>👋안녕하세요 </31>
-<h4> 개발자를 꿈꾸며 준비하고 있는 장휘주 입니다! <br>
-    제 깃허브에 오신것을 환영합니다!</h3> <br>
+<h3> Hi! Welcome to my GitHub, i'm HWIJOO JANG 👋 </h3> 
+<h4>Backend Devloper</h4>
+
+ Developers who are more passionate than anyone else<br>
+ and want to improve their skills by devoting themselves to development.<br>
      
 <br> 
 
@@ -27,10 +29,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgnlwn9718@gmail.com)](wkdgnlwn9718@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jhj9469@naver.com)](jhj9469@naver.com)
 <a href="https://adhesive-lemming-e96.notion.site/fc8ad0c62993466fb305c61bbeee7250" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=Notion&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.instagram.com/whichup_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=Instagram&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/whichup_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=Instagram&logo=Instagram&logoColor=white"/></a>   
+  <br>
   
-    
-
 <h3></h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwijooJang&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwijooJang&show_icons=true&theme=dark)

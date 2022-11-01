@@ -21,8 +21,11 @@
 <h2>Contect Me</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkdgnlwn9718@gmail.com)](wkdgnlwn9718@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:[wkdgnlwn9718@gmail.com](https://adhesive-lemming-e96.notion.site/fc8ad0c62993466fb305c61bbeee7250))]([wkdgnlwn9718@gmail.com](https://adhesive-lemming-e96.notion.site/fc8ad0c62993466fb305c61bbeee7250))
+
 
 
 <h2></h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwijooJang&show_icons=true&theme=radical)
+ 
